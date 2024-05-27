@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "firtname": "Biltekin",
+    "lastname": "Kurtuluş"
+  },
+  {
+    "id": 2,
+    "firtname": "Bilal",
+    "lastname": "Kurt"
+  },
+  {
+    "id": 3,
+    "firtname": "Ece",
+    "lastname": "Naz"
+  },
+  {
+    "id": 4,
+    "firtname": "Ahmet",
+    "lastname": "Eliboyali"
+  }
+]
